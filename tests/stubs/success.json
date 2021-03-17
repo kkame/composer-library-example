@@ -1,0 +1,20 @@
+{
+  "data": [
+    {
+      "id": 11,
+      "title": "\uc2dc\ub2c8\uc5b4 PHP \uac1c\ubc1c\uc790 \ucc44\uc6a9 (\ub77c\ub77c\ubca8 \uc0ac\uc6a9 \uc6b0\ub300, \ub9e5\ubd81 16\uc778\uce58 \uc9c0\uae09)",
+      "company_name": "\uc5d0\uc5b4\ud154\ub2f7\ucef4",
+      "description": "[\uc8fc\uc694\uc5c5\ubb34]\r\n- B2C \uc5ec\ud589 \ud50c\ub7ab\ud3fc \uac1c\ubc1c \r\n- \ud56d\uacf5\uc0ac API \uc5f0\ub3d9 \r\n- \ud638\ud154 API \uc5f0\ub3d9\r\n- \ucee4\uba38\uc2a4 \ud50c\ub7ab\ud3fc API \uc5f0\ub3d9\r\n- B2B API \uac1c\ubc1c\r\n- CRM \uac1c\ubc1c\r\n- \uc2e0\uc0ac\uc5c5 \uc900\ube44\r\n\r\n[\uc790\uaca9\uc694\uac74]\r\n- \uc6f9\uac1c\ubc1c \uacbd\ub825 \ub9cc 5\ub144 \uc774\uc0c1\r\n- Modern PHP, Laravel \ud639\uc740 \uc774\uc5d0 \uc900\ud558\ub294 \uac1c\ubc1c \uacbd\ud5d8 \ubcf4\uc720\uc790\r\n- RESTful API \uac1c\ubc1c \uacbd\ud5d8 \ud639\uc740 \uc124\uacc4 \uc6d0\uce59\uc744 \uc774\ud574\ud558\uace0 \uc788\ub294\uc790\r\n- RDBMS, SQL \uac1c\ubc1c \uacbd\ud5d8 \ud639\uc740 \uc9c0\uc2dd \ubcf4\uc720\uc790\r\n- \uc544\uc774\ub514\uc5b4\uc640 \uc9c0\uc2dd\uc744 \ud568\uaed8 \uacf5\uc720\ud558\uace0 \ucee4\ubba4\ub2c8\ucf00 \uc774\uc158\ud560 \uc218 \uc788\ub294 \uc790\r\n \r\n[\uc6b0\ub300\uc870\uac74]\r\n- \uc624\ud508\uc18c\uc2a4 \/ \uac1c\ubc1c \ucee4\ubba4\ub2c8\ud2f0 \ud65c\ub3d9\r\n- \uafb8\uc900\ud55c \uc790\uae30\uac1c\ubc1c\r\n- \ud574\uc678\uc5ec\ud589 \uacbd\ud5d8\uc790\r\n- \ucee4\ubba4\ub2c8\ucf00\uc774\uc158 \uc6b0\uc218\uc790",
+      "image_url": null,
+      "skills": "Laravel, PHPUnit, Docker",
+      "link": "http:\/\/www.jobkorea.co.kr\/Recruit\/GI_Read\/33602529?Oem_Code=C1",
+      "min_salary": 4000,
+      "max_salary": 8000,
+      "address": "\uc11c\uc6b8\uc2dc \uc885\ub85c\uad6c",
+      "created_at": "2021-01-07T07:10:47.000000Z",
+      "updated_at": "2021-01-07T07:10:47.000000Z",
+      "expired_at": "2021-12-30T15:00:00.000000Z",
+      "created_user": "kkame"
+    }
+  ]
+}

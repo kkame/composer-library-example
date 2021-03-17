@@ -1,0 +1,28 @@
+{
+    "name": "kkame/test-library",
+    "description": "ModernPug 2021년 3월 발표 예제 코드입니다",
+    "authors": [
+        {
+            "name": "kkame",
+            "email": "kkamenet@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Kkame\\ModernPug\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Test\\ModernPug\\": "tests"
+        }
+    },
+    "require": {
+        "php": "^7.4",
+        "guzzlehttp/guzzle": "^7.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5",
+        "phpstan/phpstan": "^0.12.81"
+    }
+}
